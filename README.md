@@ -1,4 +1,4 @@
-#My first telegram bot
+My first telegram bot
 
 Based on a Codegym mini Java internship 
 
